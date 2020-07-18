@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="cod_ingresso1">Código do ingresso</string>
+    <string name="cod_ingresso2">Digite o código do ingresso</string>
+    <string name="tipo_entrada">Tipo de Entrada</string>
+    <string name="tipo_meia">Meia</string>
+    <string name="tipo_inteira">Inteira</string>
+    <string name="nome_filme">Selecione o Filme</string>
+    <string name="exibir">Exibir</string>
+    <string name="imprimir">Imprimir Ingressos</string>
+
+</resources>
